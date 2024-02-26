@@ -1,4 +1,4 @@
-// The “Grade Assigner” Application
+// The “Grade Assigner” Application (with if/else statements)
 var score = prompt("Enter a score between 1 and 100:");
 
 if (score < 1 || score > 100) {
